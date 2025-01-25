@@ -1,0 +1,64 @@
+{
+    "blogs": [
+        {
+            "id": 1,
+            "title": "Belajar JSON untuk Pemula",
+            "content": "JSON adalah format data yang ringan dan mudah digunakan untuk pertukaran data.",
+            "author": "John Doe",
+            "date": "2025-01-25",
+            "tags": [
+                "JSON",
+                "Pemrograman",
+                "Web Development"
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Tips dan Trik JavaScript",
+            "content": "Pelajari tips dan trik JavaScript untuk meningkatkan produktivitas Anda.",
+            "author": "Jane Smith",
+            "date": "2025-01-20",
+            "tags": [
+                "JavaScript",
+                "Tips",
+                "Programming"
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Panduan Membuat REST API",
+            "content": "Artikel ini akan membahas cara membuat REST API menggunakan Express.js.",
+            "author": "Alice Johnson",
+            "date": "2025-01-15",
+            "tags": [
+                "REST API",
+                "Express.js",
+                "Backend"
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Memahami Asynchronous Programming",
+            "content": "Asynchronous programming adalah kunci untuk membangun aplikasi yang cepat dan responsif.",
+            "author": "Robert Brown",
+            "date": "2025-01-10",
+            "tags": [
+                "Asynchronous",
+                "JavaScript",
+                "Programming"
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Framework Frontend Terbaik di 2025",
+            "content": "Kami membandingkan beberapa framework frontend populer untuk membantu Anda memilih yang terbaik.",
+            "author": "Emily Davis",
+            "date": "2025-01-05",
+            "tags": [
+                "Frontend",
+                "Framework",
+                "Web Development"
+            ]
+        }
+    ]
+}
