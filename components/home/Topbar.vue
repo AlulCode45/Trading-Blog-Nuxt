@@ -1,5 +1,5 @@
 <template>
-  <header>
+  <header class=" w-full bg-white">
     <div class="flex justify-between items-center max-w-7xl mx-auto p-4">
       <div class="__site_logo flex items-center">
         <img src="/public/favicon.ico" alt="logo" />
@@ -7,15 +7,16 @@
       </div>
       <div class="site_menu  absolute trasnform -translate-x-1/2 left-1/2">
         <div class="flex menu__list space-x-5">
-          <div class="menu__item">
+          <div class="menu__item pb-1 border-b-2 border-transparent hover:text-green-700 hover:border-green-500 transition-all hover:scale-105 ease-in">
             Tutorials
           </div>
-          <div class="menu__item">
+          <div class="menu__item pb-1 border-b-2 border-transparent hover:text-green-700 hover:border-green-500 transition-all hover:scale-105 ease-in">
             Market Trends
           </div>
-          <div class="menu__item">
+          <div class="menu__item pb-1 border-b-2 border-transparent hover:text-green-700 hover:border-green-500 transition-all hover:scale-105 ease-in">
             Investments Strategies
           </div>
+
         </div>
       </div>
       <div class="search-box">
