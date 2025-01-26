@@ -1,10 +1,10 @@
 <script setup lang="ts">
-import { HomeHeroSection } from '#components';
 
-
+definePageMeta({
+  layout: 'home'
+})
 </script>
 
 <template>
-    <HomeTopbar />
-    <HomeHeroSection />
+  
 </template>
