@@ -1,6 +1,6 @@
 <template>
-  <div class="hero_section container max-w-7xl mx-auto p-4 h-screen flex bg-gray-50 absolute top-0 left-1/2 transform -translate-x-1/2 -z-10">
-    <div class="hero_section__content flex gap-10 items-center w-full">
+  <div class="hero_section containerp-4 py-10 h-screen bg-gray-50">
+    <div class="hero_section__content flex gap-10 items-center w-full  max-w-7xl mx-auto ">
       <div class="hero_content__left">
         <h2 class="text-4xl font-bold mb-3">Master the Art of Trading</h2>
         <p class="mb-5">
@@ -12,8 +12,8 @@
         </button>
       </div>
       <div class="hero_content__right w-1/2">
-        <div class="bg-gray-700 rounded-lg w-full h-[350px] p-10 text-white">
-          Trading View Simulation
+        <div class="bg-gray-700 rounded-lg w-full h-[450px] text-white">
+          <WidgetTradingView/>
         </div>
       </div>
     </div>
