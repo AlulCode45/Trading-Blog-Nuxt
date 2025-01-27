@@ -1,7 +1,8 @@
 <template>
-    <div>
-        <HomeTopbar />
-        <HomeHeroSection />
-        <slot />
-    </div>
+  <div>
+    <HomeTopbar/>
+    <HomeHeroSection/>
+    <slot/>
+    <HomeFooter/>
+  </div>
 </template>
