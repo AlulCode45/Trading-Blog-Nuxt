@@ -1,5 +1,5 @@
 <template>
-  <div class="article_card border rounded-lg" v-for="i in 4" :key="i">
+  <div class="article_card border rounded-lg">
     <div class="card__header">
       <div class="container w-full h-52 bg-gray-700 rounded-lg grid place-content-center text-white">
         Article Image
