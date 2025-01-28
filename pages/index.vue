@@ -10,6 +10,7 @@ useHead({
 </script>
 
 <template>
+  <HomeHeroSection/>
   <div class="grid grid-cols-3 container max-w-7xl mx-auto p-4 mb-20 gap-10">
     <div class="col-span-2">
       <h2 class="text-3xl font-semibold mb-5">Latest Article</h2>
